@@ -19,7 +19,7 @@
 
 
 ## Part 2 - Printing line
-* Finish defining the `printLine` function-stub located in `./assets/js/utils.js`.
+* Finish defining the `getLine` function-stub located in `./assets/js/shapes.js`.
 	* The function should ask user to input `length`print a solid line of the requested `length` using asterisks.
 * Test the function by _calling_ it from `./assets/js/header-functions.js`, then opening the **insepctor-tool** on the `./index.html` document.
 
